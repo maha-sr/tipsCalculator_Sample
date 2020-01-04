@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    color: rgb(192, 111, 35);
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: midnightblue ;
+
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 75px 300px;
+}
+
+.headerTxt {
+
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto;
+    background: rgb(192, 111, 35);
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-size: 16px;
+    color: white;    
+}
+
